@@ -5,4 +5,4 @@ const v2 = '1.0.2'
 
 const dev = '1.0.1'
 const dev1 = '1.0.3'
-const common = '1.0.1'
+const common = '1.0.2'
